@@ -36,8 +36,7 @@ header h2 {
     background-color: #901CAD;
 }
 
-.tab-content {
+.card {
     border: 1px solid #DDD;
-    border-top: none;
-    padding: 10px;
+    padding: 1px;
 }
