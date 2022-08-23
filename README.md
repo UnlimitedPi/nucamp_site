@@ -2,7 +2,7 @@
 
 WELCOME
 
-This is a website created/ designed in the nucamp "Bootstrap + React; React Native" Course. This is a mock website that is not to be deployed legitamately, but to be
+This is a website created/ designed in the nucamp "Bootstrap + React; React Native" Course. This is a mock website that is not to be deployed legitimately, but to be
 used as a learning enviorment to further develop my skills in HTML, CSS, and JS.
 
 CONTACT
